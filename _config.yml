@@ -20,10 +20,10 @@ source-code: https://github.com/achives/cogfigcollection
 # title of site appears in banner
 title: Cognitive Decline & Language
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a value added bibliography presentation
+tagline: A value added bibliography selected for research
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Cognitive Decline & Language (CDL) is a value added bibliography selected for advancing research and knowledge on how language is related to aging brain and cognition. To assist crossing regional research, it includes bilingual subject terms in English and Chinese."  
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: archivesw
 

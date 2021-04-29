@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About CDL; About the About Page" %}
+{% include feature/nav-menu.html sections="CDL bibliography; CDL website; Acknowlegement" %}
 
 ## CDL bibliography
 CDL (Cognitive Decline and Language) presented on this web page is a part of a valua added bibliography prepared as background to discussing research on the cognitive neuroscience of language and cognitive decline. It is a short visual display of ['Cognitive Decline and Language: Cumulative References'](https://www.polyu.edu.hk/cbs/rclcn/cognitive-decline-and-language-cdl/synopsis/).

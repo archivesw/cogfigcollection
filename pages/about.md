@@ -22,4 +22,4 @@ The website of CDL is generated using [`collectionbuilder-gh`](https://collectio
 - a folder of JPEG images or PDF documents
 
 ## Acknowlegement
-This digital collection is built with [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), an open source tool for creating digital collection and exhibit websites that is developed by faculty librarians at the University of Idaho Library following the Lib-STATIC methodology. We thanks the librarians for their diligent guidance and [The CollectionBuilder-GH Workshop Tutorial](https://collectionbuilder.github.io/workshop/gh/). 
+We thanks the faculty librarians at the University of Idaho for their diligent guidance and [The CollectionBuilder-GH Workshop Tutorial](https://collectionbuilder.github.io/workshop/gh/). 

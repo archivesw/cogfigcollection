@@ -10,7 +10,19 @@ credits: true
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About CDL; About the About Page" %}
+
+## CDL bibliography
+CDL (Cognitive Decline and Language) presented on this web page is a part of a valua added bibliography prepared as background to discussing research on the cognitive neuroscience of language and cognitive decline. It is a short visual display of ['Cognitive Decline and Language: Cumulative References'](https://www.polyu.edu.hk/cbs/rclcn/cognitive-decline-and-language-cdl/synopsis/).
+
+## CDL website
+The website of CDL is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+
+- a CSV of collection metadata
+- a folder of JPEG images or PDF documents
+
+## Acknowlegement
+This digital collection is built with [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), an open source tool for creating digital collection and exhibit websites thatthat is developed by faculty librarians at the University of Idaho Library following the Lib-STATIC methodology.
 
 ## About the Collection
 

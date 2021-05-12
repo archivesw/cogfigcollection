@@ -13,7 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="CDL bibliography; CDL website; Acknowlegement" %}
 
 ## CDL bibliography
-CDL (Cognitive Decline and Language) presented on this website is a brief visualization of [a subject bibliography](https://www.polyu.edu.hk/cbs/rclcn/cognitive-decline-and-language-cdl/synopsis/) prepared as background to discussing research on the cognitive neuroscience of language and cognitive decline at [Research Centre for Language, Cognition, and Neuroscience](https://www.polyu.edu.hk/cbs/rclcn/about-centre/our-mission/). 
+CDL (Cognitive Decline and Language) presented on this website is a brief visualization of [a value added subject bibliography](https://www.polyu.edu.hk/cbs/rclcn/cognitive-decline-and-language-cdl/synopsis/) prepared as background to discussing research on the cognitive neuroscience of language and cognitive decline at [Research Centre for Language, Cognition, and Neuroscience](https://www.polyu.edu.hk/cbs/rclcn/about-centre/our-mission/). 
 
 ## CDL website
 This website of CDL (Cognitive Decline and Language) is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 

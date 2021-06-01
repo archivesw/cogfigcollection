@@ -22,4 +22,5 @@ This website of CDL (Cognitive Decline and Language) is generated using [`collec
 - a folder of JPEG images or PDF documents
 
 ## Acknowlegement
-We thank the faculty librarians at the University of Idaho, USA for their diligent guidance and [The CollectionBuilder-GH Workshop Tutorial](https://collectionbuilder.github.io/workshop/gh/). We also thank librarians of American Library Association for its active coordination and assistence.  
+We thank the faculty librarians at the University of Idaho, USA for their diligent guidance and [The CollectionBuilder-GH Workshop Tutorial](https://collectionbuilder.github.io/workshop/gh/). We also thank librarians of American Library Association for its active coordination and assistence. 
+

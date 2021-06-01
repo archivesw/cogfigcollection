@@ -18,8 +18,8 @@ CDL (Cognitive Decline and Language) presented on this website is a brief visual
 ## Bibliometrics
 Data for VOSviewer visualization 
 
-[map100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/map100.txt)
-[network100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/network100.txt)
+- [map100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/map100.txt)
+- [network100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/network100.txt)
 
 ## CDL website
 This website of CDL (Cognitive Decline and Language) is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 

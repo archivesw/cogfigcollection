@@ -19,7 +19,6 @@ CDL (Cognitive Decline and Language) presented on this website is a brief visual
 Data for VOSviewer visualization 
 
 [map100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/map100.txt)
-
 [network100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/network100.txt)
 
 ## CDL website

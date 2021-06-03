@@ -16,7 +16,7 @@ credits: true
 CDL (Cognitive Decline and Language) presented on this website is a brief visualization of [a value added subject bibliography](https://www.polyu.edu.hk/cbs/rclcn/cognitive-decline-and-language-cdl/synopsis/) including bibliometric data visualization prepared as background to discussing research on the cognitive neuroscience of language and cognitive decline at [Research Centre for Language, Cognition, and Neuroscience](https://www.polyu.edu.hk/cbs/rclcn/about-centre/our-mission/). 
 
 ## Bibliometrics
-The data files below are for an example of bibliometrical data visualization by [VOSviewer](https://www.vosviewer.com/), on the topic of "aging and language" of CDL related publications/citation sources found in the database of [Demensions](https://www.dimensions.ai/). 
+The data files below are for an example of bibliometrical data visualization by [VOSviewer](https://www.vosviewer.com/), on the topic of "aging and language" of CDL related publications (co-citation sources) found in the database of [Demensions](https://www.dimensions.ai/). 
 
 - [map100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/map100.txt)
 - [network100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/network100.txt)

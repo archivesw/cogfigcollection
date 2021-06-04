@@ -9,7 +9,6 @@ credits: true
 ---
 
 {% include feature/jumbotron.html %}
-{% include feature/item-figure.html objectid="image14" width="25" %}
 {% include feature/nav-menu.html sections="CDL bibliography; Bibliometrics; CDL website; Acknowlegement" %}
 
 ## CDL bibliography

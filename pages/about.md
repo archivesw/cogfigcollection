@@ -27,6 +27,8 @@ Copy and save the two statistical data files above in two seperate note files (.
 - [Visual exploration of scientific literature using VOSviewer and CitNetExplorer (7/ 2020)](https://youtu.be/3aSKhFeXIU4)
 - [Bibliometric Analysis of DIMENSIONS Data Using VosViewer (3/2021)](https://youtu.be/or6LA0anOBQ)
 
+{% include feature/item-figure.html objectid="image14" width="25" %}
+
 ## CDL website
 This website of CDL (Cognitive Decline and Language) is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 

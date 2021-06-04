@@ -8,8 +8,8 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html %}
-{% include feature/nav-menu.html sections="CDL bibliography; Bibliometrics; CDL website; Acknowlegement" %}
+{% include feature/jumbotron.html %} {% include feature/item-figure.html objectid="image14" width="25" %}
+{% include feature/nav-menu.html sections="CDL bibliography; CDL bibliometrics; CDL website; Acknowlegement" %}
 
 ## CDL bibliography
 CDL (Cognitive Decline and Language) presented on this website is a brief visualization of [a value added subject bibliography](https://www.polyu.edu.hk/cbs/rclcn/cognitive-decline-and-language-cdl/synopsis/) including bibliometric data visualization prepared as background to discussing research on the cognitive neuroscience of language and cognitive decline at [Research Centre for Language, Cognition, and Neuroscience](https://www.polyu.edu.hk/cbs/rclcn/about-centre/our-mission/). 

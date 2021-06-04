@@ -21,11 +21,7 @@ The data files below are for an example of bibliometrical data visualization by 
 - [map100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/map100.txt)
 - [network100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/network100.txt)
 
-Copy and save the two statistical data files in two seperate note files (.txt files), and then open them by VOSviewer to observe various interactive presentations of related citation sources which 1) have more than 100 citaiotions and 2) have papers on the topic, cited at least by other 2 papers. 
-
-{% include feature/item-figure.html objectid="image013" width="25" %}
-
-For more information about VOSviewer functions, the following videos can be referred: 
+Copy and save the two statistical data files in two seperate note files (.txt files), and then open them by VOSviewer to observe various interactive presentations of related citation sources which 1) have more than 100 citaiotions and 2) have papers on the topic, cited at least by other 2 papers. For more information about VOSviewer functions, the following videos can be referred: 
 
 - [VOSviewer: Getting Started](https://youtu.be/9dTWkNRxUtw) 
 - [Visual exploration of scientific literature using VOSviewer and CitNetExplorer (7/ 2020)](https://youtu.be/3aSKhFeXIU4)

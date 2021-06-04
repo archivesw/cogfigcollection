@@ -16,12 +16,12 @@ credits: true
 CDL (Cognitive Decline and Language) presented on this website is a brief visualization of [a value added subject bibliography](https://www.polyu.edu.hk/cbs/rclcn/cognitive-decline-and-language-cdl/synopsis/) including bibliometric data visualization prepared as background to discussing research on the cognitive neuroscience of language and cognitive decline at [Research Centre for Language, Cognition, and Neuroscience](https://www.polyu.edu.hk/cbs/rclcn/about-centre/our-mission/). 
 
 ## Bibliometrics
-The data files below are for an example of bibliometrical data visualization by [VOSviewer](https://www.vosviewer.com/), on the topic of "aging and language" of CDL related publications/citation sources found in the database of [Demensions](https://www.dimensions.ai/). 
+The data files below are for an example of bibliometrical data visualization by [VOSviewer](https://www.vosviewer.com/), on the topic of "aging and linguistics" of CDL related co-citation sources found in the database of [Demensions](https://www.dimensions.ai/). 
 
 - [map100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/map100.txt)
 - [network100](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/_data/network100.txt)
 
-Copy and save the two statistical data files in two seperate note files (.txt files), and then open them by VOSviewer to observe various interactive presentations of related citation sources which 1) have more than 100 citaiotions and 2) have papers on the topic, cited at least by other 2 papers. For more information about VOSviewer functions, the following videos can be further referred in addition to [VOSviewer website](https://www.vosviewer.com/): 
+Copy and save the two statistical data files above in two seperate note files (.txt files), and then open them by VOSviewer to observe various interactive bibliometric viusalization of related citation sources which 1) have more than 100 citaiotions and 2) have papers on the topic, cited at least by other 2 papers. [Here](https://raw.githubusercontent.com/archivesw/cogfigcollection/main/objects/image013.JPG) are screenshot for reference. For more information about VOSviewer functions, the following videos can be further referred in addition to [VOSviewer website](https://www.vosviewer.com/): 
 
 - [VOSviewer: Getting Started](https://youtu.be/9dTWkNRxUtw) 
 - [Visual exploration of scientific literature using VOSviewer and CitNetExplorer (7/ 2020)](https://youtu.be/3aSKhFeXIU4)

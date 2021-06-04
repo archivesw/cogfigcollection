@@ -23,7 +23,7 @@ The data files below are for an example of bibliometrical data visualization by 
 
 Copy and save the two statistical data files in two seperate note files (.txt files), and then open them by VOSviewer to observe various interactive presentations of related citation sources which 1) have more than 100 citaiotions and 2) have papers on the topic, cited at least by other 2 papers. 
 
-{% include feature/item-figure.html objectid="image13" width="25" %}
+{% include feature/item-figure.html objectid="image013" width="25" %}
 
 For more information about VOSviewer functions, the following videos can be referred: 
 
